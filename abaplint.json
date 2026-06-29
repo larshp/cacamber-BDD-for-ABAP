@@ -133,7 +133,7 @@
       "intf": "^ZIF\\_",
       "prog": "^Z"
     },
-    "obsolete_statement": true,
+    "obsolete_statement": false,
     "omit_parameter_name": false,
     "omit_receiving": true,
     "parser_702_chaining": true,
@@ -141,7 +141,7 @@
     "parser_missing_space": true,
     "prefer_inline": false,
     "prefer_is_not": true,
-    "prefer_raise_exception_new": true,
+    "prefer_raise_exception_new": false,
     "prefer_returning_to_exporting": true,
     "prefer_xsdbool": true,
     "preferred_compare_operator": true,
